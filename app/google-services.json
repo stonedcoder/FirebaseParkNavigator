@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "279806124312",
+    "firebase_url": "https://fir-navigator-d920d.firebaseio.com",
+    "project_id": "fir-navigator-d920d",
+    "storage_bucket": "fir-navigator-d920d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279806124312:android:947ed5b07fcb0311",
+        "android_client_info": {
+          "package_name": "com.codingblocks_projects.vraun.firebase_navigator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279806124312-jj0mir8mejacqq5h4l4ud8eqc5re989i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZclGkghuvd7K9OYkM_Sjlaczt3-LLAZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279806124312:android:5add9519d27e22e9",
+        "android_client_info": {
+          "package_name": "edu.ucr.cutiehack.parkbnb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279806124312-tcugkidmgpmatmd0t5hl1p99r0ddf0ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ucr.cutiehack.parkbnb",
+            "certificate_hash": "7cf96f4f65a0ee6fff5df8dc467c090fbf09b32c"
+          }
+        },
+        {
+          "client_id": "279806124312-jj0mir8mejacqq5h4l4ud8eqc5re989i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZclGkghuvd7K9OYkM_Sjlaczt3-LLAZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279806124312-jj0mir8mejacqq5h4l4ud8eqc5re989i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
