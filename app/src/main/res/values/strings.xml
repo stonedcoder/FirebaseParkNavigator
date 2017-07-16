@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Parkbnb</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">NEXT</string>
+    <string name="start">SIGN IN</string>
+
+    <string name="slide_1_title">Welcome to Parkbnb!</string>
+    <string name="slide_1_desc">The easiest way to find a parking spot around!</string>
+
+    <string name="slide_2_title">Renting Spots</string>
+    <string name="slide_2_desc">Best choice to rent out your garage!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">Use Worldwide</string>
+    <string name="slide_4_desc">Best renting app that you can use it everywhere!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="rentor">Rent spot</string>
+    <string name="get">Get spot</string>
+
+</resources>

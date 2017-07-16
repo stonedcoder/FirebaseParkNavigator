@@ -1,0 +1,76 @@
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.ucr.cutiehack.parkbnb.CreateListingActivity">
+
+</android.support.constraint.ConstraintLayout>
+-->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.ucr.cutiehack.parkbnb.CreateListingActivity"
+    tools:layout="@layout/activity_create_listing">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="0dp"-->
+    <!--android:layout_weight="1">-->
+    <!---->
+    <!--</LinearLayout>-->
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/Search"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right"
+        android:layout_weight="1"
+        android:onClick="onMapSearch"
+        android:layout_margin="6dp"
+        android:text="Search"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:layout_toRightOf="@+id/addressEditText"
+        android:background="@drawable/mybutton"/>
+
+    <EditText
+        android:id="@+id/addressEditText"
+        android:layout_width="280dp"
+        android:layout_height="40dp"
+        android:background="@drawable/curved_edittext"
+        android:gravity="center"
+        android:layout_weight="2"
+        android:layout_margin="6dp"
+        android:hint="Search Location Here" />
+    <Button
+        android:id="@+id/CLbutton"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="12dp"
+        android:layout_weight="1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/mybutton"
+        android:text="Create Listing"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>
+
+</FrameLayout>

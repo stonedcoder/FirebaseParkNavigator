@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.ucr.cutiehack.parkbnb.EnterInfo"
+    android:background="@mipmap/backgroundlogin">
+
+    <TextView
+        android:id="@+id/promptTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please Enter The Information About Your Parking Space"
+        android:textAlignment="center"
+        android:layout_marginTop="100dp"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:padding="20dp"/>
+
+    <EditText
+        android:id="@+id/priceET"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:background="@drawable/curved_edittext"
+        android:layout_below="@+id/promptTV"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:hint="P r i c e"
+        android:layout_marginTop="10dp"
+        android:inputType = "number" />
+
+    <EditText
+        android:id="@+id/rateET"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:background="@drawable/curved_edittext"
+        android:gravity="center"
+        android:hint="R a t e"
+        android:inputType = "number"
+        android:layout_below="@id/priceET"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:onClick="onSubmit"
+        android:text="Submit"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:textStyle="bold"
+        android:background="@drawable/curved_button"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/rateET"/>
+
+</RelativeLayout>
