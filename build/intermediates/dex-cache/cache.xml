@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\47a2e1c11d3d54896c892d36faacd62b4ca67a0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_d0a225e6fb4a6c9f4c397c8ea11986e39f8f5ca3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_941bac8e703929780e3336f5ab3c8835c7353f2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\dfd03d5a1d2c2686291635517d7de0948b98944b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_2251268e07da6f7e84d090504df611e33027b6d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.3\e51ebc59da5103a2052859e89682c7f9c3456298\kotlin-stdlib-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e51ebc59da5103a2052859e89682c7f9c3456298">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.3_17e2163f4a5ed43be3c1c945a1c2fb55c7d258ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\6ad4a1eed7c5a028efb2140be434fed7c8ff406a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_65103cacab2d19d7e658d242be184ce8586c2641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\62e2474f0f51ebef7275e7191c8b881a87584a0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_6715473a7a205380370c92414b8569eb1cfdcaa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\1a0e47e76655eb76c5ca35877ed8cafa88e2fa86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_6926f459cbf3894cf7a9eecaa3fef51c139c715a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4f3831924a4e26603f9d025005d1a5eb72a84b50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f60c1e2a125ec309cfea6ebd7401f93055394808">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_37aa55fda04a4478e28940bef078e16ead732989\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\237a91217df66f24fa2cd560804d133c280ddd45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_b3d6710513e55beca65d2c3c79365a0362e817eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.3\ca54720041043baefa0946f7ab2326934cfefd7f\kotlin-stdlib-jre7-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca54720041043baefa0946f7ab2326934cfefd7f">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.3_cb2d50d2e999e713cdb4b70090a520e4de8c5d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\977718614d89f8514470d6641a924842e6713d12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_388d27bffdf91e2f0c0aa9d48ead89195662de71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\annotations-13.0_3ec5298b66603a911646d80f42cab703ab563bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\71f8bab0d45b235d874e07bf2b14923532178e84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_c2ef4b8581a609624fa50a2cbc1581a402c25b2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\11c90ae516f877e245f4fe89d1c6458e92970c74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_f8d5dfead171983b970819bba5127d68337252e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\c5dbe96a0d1d4aeecd1b4c3d2aa42802ce5d1004\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_0bfa56211f392b37e0e8b6e485893951c89516f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\c904d9adf841bbe46024aa1625b739c8d539b01f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_ccdb7af07f9195f98a3e45f941e1084176e4668e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\69e76f255d8a37b57a2dc4f7bb4b544ac9235a83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_1254917d977028839fb8fcc4a273be9b1ee91f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\26b0d6eeeddddca00ae01ea0f54baff724f4624e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_11eb556e814539543353a675cd5d1f972ba0aafa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\f7800f636f4020d20bc7fdc2831a8a23ecd7cc0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_9dd199790930feed8354ea8e98098dd74c75be03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\c25f8e6a3bdea427e5bf9421a3ecb9675a509213\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_761b12448a145bc963a25ab9d845b7983ca61044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\a21f6386f689c37764b20ff47f55bd3bd8834284\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_7b6132572779944c6ba0599809b385d9d336d199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\5904f91509084d30e5e7f64960c6f1e752a766f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_3a7f60e54ca527a06c09daaae44bd445cfabdbe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.6.0_29da181f15e1581e1fe69865df5e7e66d92dbfb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\52d17583c89691c8dae4a01ce56066051c1b4f03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_a85c4451bcd08d53ee765de622c2f0bac8adec19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\d85456c76f917aa805f70ce078c091e1034d4623\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_e8845994905ffd96ef4bf136c0e57d2bea8e78b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_968c242462bb6006939558239fa64dc8a8f72083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\3717174d5eb9957c9860fb16c2491c448d8c1527\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_e9e5049a8e23715aec9272186dc3a70d3507eda6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\91a559e68f61081671d8eff7cf70cdbfcab1045b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_27ca490b9cd992c9eabef0de70a223c1962dc1d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\fae9529a0e3ac623e21989db25ee7d0dd8302c04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_2b58085680bcf8535d1a876d7c615ae80720065e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\32bec0a5682ec353216aa9698cc92133c061cb07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_8803e9587b96af6e2010fe608b5f2aedf3971d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\0ddc6aa142a997c73ad44d847da70b2ce074a633\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_b1fb26bd315c8a1b9f2234b333c13bee1c468bb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shenron\.android\build-cache\10a402e6972a9446b435bdc66c966273f564caa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="D:\Work\Projects\Android\FirebaseParkNavigator\app\build\intermediates\pre-dexed\debug\classes_30ebb61c9f7cc63815cfb433609581168669189b.jar" />
+    </item>
+
+</items>
